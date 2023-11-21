@@ -9,6 +9,7 @@ Olá! Eu sou o Gabriel Fernandes, um desenvolvedor apaixonado por tecnologia e p
 ## Contato
 
 - <a href='https://www.linkedin.com/in/gabriel-fernandes-453813264/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white'></a>
+- <a href='mailto:gabrielferdev@gmail.com'><img src='https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white'></a>
 
 ## Habilidades
 
@@ -36,14 +37,22 @@ Aqui estão algumas das habilidades que possuo no mundo do desenvolvimento:
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" alt="Express">
   <img src="https://img.shields.io/badge/Fastify-202020?style=flat&logo=fastify&logoColor=white" alt="Fastify">
+  <img src="https://img.shields.io/badge/Nest.js-E0234E?style=flat&logo=nestjs&logoColor=white" alt="Nest.js">
+  <img src="https://img.shields.io/badge/TypeORM-376ECC?style=flat&logo=typeorm&logoColor=white" alt="TypeORM">
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=aspnet&logoColor=white" alt="ASP.NET Core">
+  <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=flat&logo=.net&logoColor=white" alt="Entity Framework">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
 <div/>
 
-### Bibliotecas e Frameworks
+### Frontend
 <div style="display: flex; justify-content: space-around;">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React">
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-<div/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" alt="Vue.js">
+  <div/>
 
 ### Ferramentas
 <div style="display: flex; justify-content: space-around;">
